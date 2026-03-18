@@ -4,7 +4,7 @@
 <h2>Astrolabe: Steering Forward-Process Reinforcement Learning for Distilled Autoregressive Video Models</h2>
 
 [![Page](https://img.shields.io/badge/Project-Page-pink?logo=googlechrome&logoColor=white)](https://franklinz233.github.io/projects/astrolabe/)
-[![Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2602.07775)
+[![Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=white)](https://github.com/franklinz233/Astrolabe/blob/main/assets/Astrolabe_paper.pdf)
 
 <br>
 
