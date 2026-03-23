@@ -328,7 +328,6 @@ torchrun --nproc_per_node=8 scripts/train_nft_wan.py \
 ---
 
 #### Krea 14B
-
 <details>
 <summary><b>Single Node (8× GPU)</b></summary>
 
